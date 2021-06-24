@@ -9,14 +9,21 @@
 
 <br />
 
-My name is Tatiana Ptashkina. I'm in IT since 2007 (project/product manager, mostly). Now my main interests are Data Analysis, Data Science, Deep learning and Python.
+My name is Tatiana Ptashkina. I'm in IT since 2007.
 
+**Experience:**
+
+* 2007 - 2018 Kraftway PLC (engineer, IT project/product manager)
+* 2018 - 2020 Start-up, online store (owner)
+* 2019 - 2020 Tensor (project manager)
+* 2020 - 2021 Freelance (python / data analysis / web scraping)
 <br />
   
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 🚧 **Мои задачи на ближайшее время:**
