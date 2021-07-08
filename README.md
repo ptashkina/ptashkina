@@ -8,23 +8,24 @@
 
 ## Hi everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Tatiana Ptashkina. I'm in IT since 2007.
-
+My name is Tatiana Ptashkina. I'm in IT since 2007.<br/>
+I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis.
 
 **Education:**
+* Mathematics and Computer Science (Moscow State Industrial University, diploma)
+* Management in online business and Internet projects (HSE University, diploma)
 
-
-**Experience:**
-
-* 2007 - 2018 Kraftway PLC (engineer, IT project/product manager)
-* 2018 - 2020 Start-up, online store (owner)
-* 2019 - 2020 Tensor (project manager)
-* 2020 - 2021 Freelance (python / data analysis / web scraping)
-
+* Machine Learning and Data Analysis(Moscow Institute of Physics and Technology, Yandex & E-Learning Development Fund, [certificate](https://coursera.org/share/7bb9c7ff178ace865f4be851d3de10f3))
+* Machine Learning (Stanford University, [certificate](https://coursera.org/share/398fb99b7162de735a4a3be203f503d0))
+ 
   
 **Languages and Tools:**  
-***Common:***
+***Common:*** 
+Windows, Linux, web
+Statistics, Python, Machine Learning, Data Visualization.
 
 ***Python Library:***
 
+
 **Pet Projects:**
+
