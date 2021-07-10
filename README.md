@@ -8,7 +8,7 @@
 
 ## Hi everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Tatiana Ptashkina. I'm in IT since 2007.<br/>
+In IT since 2007.<br/>
 I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis.
 
 **Education:**
@@ -20,12 +20,9 @@ I have experience in testing, engineering, web development, project/product mana
  
   
 **Languages and Tools:**  
-***Common:*** 
-Windows, Linux, web
-Statistics, Python, Machine Learning, Data Visualization.
-
+Windows, Linux, git.<br/>
+Mathematics, Statistics, Python, SQL, Machine Learning, Data Visualization.<br/>
 ***Python Library:***
 
-
-**Pet Projects:**
-
+**Projects:**
+* [SP 500 Analyzer](https://github.com/ptashkina/SP_500_analyzer)
