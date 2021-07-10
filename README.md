@@ -20,7 +20,6 @@ I have experience in testing, engineering, web development, project/product mana
  
   
 **Languages and Tools:**  
-Windows, Linux, git.<br/>
 Mathematics, Statistics, Python, SQL, Machine Learning, Data Visualization, Data Analysis.<br/>
 ***Python Library:***
 Pandas, Numpy, Scikit-learn, Scipy, nltk, Matplotlib, Seaborn, BeautifulSoup, PyPdf, Streamlit, yfinance и др.
