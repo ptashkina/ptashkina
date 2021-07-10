@@ -8,7 +8,7 @@
 
 ## Hi everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis (in IT since 2007).
+I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis.
 
 **Education:**
 * Mathematics and Computer Science (Moscow State Industrial University, diploma)
