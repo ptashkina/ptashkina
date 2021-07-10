@@ -26,3 +26,7 @@ Mathematics, Statistics, Python, SQL, Machine Learning, Data Visualization.<br/>
 
 **Projects:**
 * [SP 500 Analyzer](https://github.com/ptashkina/SP_500_analyzer)
+* [Page view Time Series Visualizer](https://github.com/ptashkina/freecodecamp_page_view_time_series_visualizer)
+* [Medical Data Visualizer](https://github.com/ptashkina/freecodecamp_medical_data_visualizer)
+* [Demographic Data Analyzer](https://github.com/ptashkina/freecodecamp_demographic_data_analyzer)
+* [Sea Level Predictor](https://github.com/ptashkina/freecodecamp_sea_level_predictor)
