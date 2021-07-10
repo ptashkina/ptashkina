@@ -21,10 +21,9 @@ I have experience in testing, engineering, web development, project/product mana
   
 **Languages and Tools:**  
 * ***Common:*** Mathematics, Statistics, Python, SQL, Machine Learning, Data Visualization, Data Analysis, Windows/Linux, Git.<br/>
-* ***Python Library W
-Pandas, Numpy, Scikit-learn, Scipy, nltk, Matplotlib, Seaborn, BeautifulSoup, PyPdf, Streamlit, yfinance и др.
+* ***Python Library:*** Pandas, Numpy, Scikit-learn, Scipy, nltk, Matplotlib, Seaborn, BeautifulSoup, PyPdf, Streamlit, yfinance и др.
 
-**Projects:**
+## Projects: ##
 * [SP 500 Analyzer](https://github.com/ptashkina/SP_500_analyzer)
 * [Page view Time Series Visualizer](https://github.com/ptashkina/freecodecamp_page_view_time_series_visualizer)
 * [Medical Data Visualizer](https://github.com/ptashkina/freecodecamp_medical_data_visualizer)
