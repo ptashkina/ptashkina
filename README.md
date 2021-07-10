@@ -8,8 +8,8 @@
 
 ## Hi everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My current focus is Data Analysis / Data Science / Machine Learning.
-I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis.
+My current focus is Data Analysis / Data Science / Machine Learning.</br>
+Also I have experience in testing, engineering, web development, project/product management,  web scraping and data analysis.
 
 **Education:**
 * Mathematics and Computer Science (Moscow State Industrial University, diploma)
