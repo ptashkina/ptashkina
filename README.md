@@ -17,7 +17,7 @@ Also I have experience in testing, engineering, web development, project/product
 ### Exploratory Data Analysis: ###
 * [SP 500 Analysis](https://github.com/ptashkina/SP_500_analyzer)
 * [Demographic Data Analysis](https://github.com/ptashkina/freecodecamp_demographic_data_analyzer)
-* [Principal Component Analysis Tasks (rus)](https://github.com/ptashkina/Coursera_MIPT_ML_PCA)
+* [Principal Component Analysis(PCA) Tasks (rus)](https://github.com/ptashkina/Coursera_MIPT_ML_PCA)
 
 ### Data Visualization: ###
 * [Page view Time Series Visualizer](https://github.com/ptashkina/freecodecamp_page_view_time_series_visualizer)
@@ -26,8 +26,9 @@ Also I have experience in testing, engineering, web development, project/product
 ### Machine Learning: ###
 * [BIOresponse Predictor - RandomForest vs XGBoost (rus)](https://github.com/ptashkina/BIOresponse_RandomForest_vs_XGBoost)
 * [Sea Level Predictor](https://github.com/ptashkina/freecodecamp_sea_level_predictor)
-* [Banner Placement = Clustering task (rus)](https://github.com/ptashkina/clustering_banner_placement_rus)
+* [Banner Placement - Clustering task (rus)](https://github.com/ptashkina/clustering_banner_placement_rus)
 
+<br>
 
 ## Education:
 ##### Diploma: #####
