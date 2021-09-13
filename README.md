@@ -15,8 +15,9 @@ Also I have experience in testing, engineering, web development, project/product
 * [Collecting Youtube video's data (API)](https://github.com/ptashkina/Collecting_Youtube_Data_API)
 
 ### Exploratory Data Analysis: ###
-* [SP 500 Analyzer](https://github.com/ptashkina/SP_500_analyzer)
-* [Demographic Data Analyzer](https://github.com/ptashkina/freecodecamp_demographic_data_analyzer)
+* [SP 500 Analysis](https://github.com/ptashkina/SP_500_analyzer)
+* [Demographic Data Analysis](https://github.com/ptashkina/freecodecamp_demographic_data_analyzer)
+* [Principal Component Analysis Tasks (rus)](https://github.com/ptashkina/Coursera_MIPT_ML_PCA)
 
 ### Data Visualization: ###
 * [Page view Time Series Visualizer](https://github.com/ptashkina/freecodecamp_page_view_time_series_visualizer)
