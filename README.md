@@ -10,7 +10,9 @@ Also I have experience in testing, engineering, web development, project/product
 
 
 ## Projects: ##
+
 ### Data Collection: ###
+* [Collecting Youtube video's data (API)](https://github.com/ptashkina/Collecting_Youtube_Data_API)
 
 ### Exploratory Data Analysis: ###
 * [SP 500 Analyzer](https://github.com/ptashkina/SP_500_analyzer)
@@ -19,13 +21,12 @@ Also I have experience in testing, engineering, web development, project/product
 ### Data Visualization: ###
 * [Page view Time Series Visualizer](https://github.com/ptashkina/freecodecamp_page_view_time_series_visualizer)
 * [Medical Data Visualizer](https://github.com/ptashkina/freecodecamp_medical_data_visualizer)
-* [Sea Level Predictor](https://github.com/ptashkina/freecodecamp_sea_level_predictor)
 
 ### Machine Learning: ###
+* [Sea Level Predictor](https://github.com/ptashkina/freecodecamp_sea_level_predictor)
 
 
-
-### Education:
+## Education:
 ##### Diploma: #####
 * Mathematics and Computer Science (Moscow State Industrial University, diploma)
 * Management in online business and Internet projects (HSE University, diploma)
@@ -34,7 +35,7 @@ Also I have experience in testing, engineering, web development, project/product
 * Machine Learning (Stanford University, [certificate](https://coursera.org/share/398fb99b7162de735a4a3be203f503d0))
 * Data Analysis with Python (FreeCodeCamp, [certificate](https://www.freecodecamp.org/certification/ptashkina/data-analysis-with-python-v7))
   
-### Languages and Tools: 
+## Languages and Tools: 
 * ***Common:*** Mathematics, Statistics, Python, SQL, Machine Learning, Data Visualization, Data Analysis, Windows/Linux, Git.<br/>
 * ***Python Library:*** Pandas, Numpy, Scikit-learn, Scipy, nltk, Matplotlib, Seaborn, BeautifulSoup, PyPdf, Streamlit, yfinance и др.
 
