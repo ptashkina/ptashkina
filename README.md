@@ -6,7 +6,7 @@
 <br>
 
 My current focus is **Data Analysis / Data Science / Machine Learning**.</br>
-Also I have experience in testing, engineering, web development, project/product management,  web scraping and product analysis.
+Also I have experience in testing, engineering, web development, project/product management,  product analysis.
 
 
 ## Projects: ##
