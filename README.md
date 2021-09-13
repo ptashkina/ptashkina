@@ -23,7 +23,9 @@ Also I have experience in testing, engineering, web development, project/product
 * [Medical Data Visualizer](https://github.com/ptashkina/freecodecamp_medical_data_visualizer)
 
 ### Machine Learning: ###
+* [BIOresponse Predictor (RandomForest vs XGBoost) (rus)](https://github.com/ptashkina/BIOresponse_RandomForest_vs_XGBoost)
 * [Sea Level Predictor](https://github.com/ptashkina/freecodecamp_sea_level_predictor)
+* 
 
 
 ## Education:
